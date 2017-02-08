@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">VoipSDK</string>
+    <string name="in_call">通话中</string>
+
+
+</resources>
